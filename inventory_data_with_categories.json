@@ -1,0 +1,4502 @@
+[
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Hewlett Packard",
+        "Beskrivelse": "HP Envy Desktop TE01-4254",
+        "Spesifikasjoner": "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
+        "Innkjøpsdato": "15.08.2023",
+        "Innkjøpspris": 999.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Datamaskiner"
+    },
+    {
+        "Produsent": "Dell",
+        "Beskrivelse": "Dell XPS 15",
+        "Spesifikasjoner": "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
+        "Innkjøpsdato": "12.06.2023",
+        "Innkjøpspris": 1500.0,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Lenovo",
+        "Beskrivelse": "Lenovo ThinkVision P27u-20",
+        "Spesifikasjoner": "27\" 4K UHD, 99% AdobeRGB, USB-C connectivity",
+        "Innkjøpsdato": "22.03.2023",
+        "Innkjøpspris": 749.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "Skjermer"
+    },
+    {
+        "Produsent": "Cisco",
+        "Beskrivelse": "Cisco Catalyst 9300",
+        "Spesifikasjoner": "48-port Gigabit, StackWise-480, 4x 10G SFP+",
+        "Innkjøpsdato": "05.05.2023",
+        "Innkjøpspris": 7200.0,
+        "Forventet levetid (i år)": 8,
+        "Kategori": "Nettverksutstyr"
+    },
+    {
+        "Produsent": "Logitech",
+        "Beskrivelse": "Logitech MX Master 3",
+        "Spesifikasjoner": "Trådløs, Bluetooth, 4000 DPI sensor",
+        "Innkjøpsdato": "10.01.2023",
+        "Innkjøpspris": 99.99,
+        "Forventet levetid (i år)": 3,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Microsoft",
+        "Beskrivelse": "Microsoft Surface Keyboard",
+        "Spesifikasjoner": "Trådløs, Bluetooth 4.0, 2.4GHz, grå",
+        "Innkjøpsdato": "30.09.2023",
+        "Innkjøpspris": 89.99,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Mus og Tastatur"
+    },
+    {
+        "Produsent": "Epson",
+        "Beskrivelse": "Epson EcoTank ET-4760",
+        "Spesifikasjoner": "Inkjet, trådløs, automatisk dokumentmater",
+        "Innkjøpsdato": "15.04.2023",
+        "Innkjøpspris": 499.99,
+        "Forventet levetid (i år)": 4,
+        "Kategori": "Skrivere"
+    },
+    {
+        "Produsent": "BenQ",
+        "Beskrivelse": "BenQ TK850i",
+        "Spesifikasjoner": "4K UHD, 3000 ANSI lumens, Android TV",
+        "Innkjøpsdato": "18.07.2023",
+        "Innkjøpspris": 1699.0,
+        "Forventet levetid (i år)": 5,
+        "Kategori": "Projektorer"
+    },
+    {
+        "Produsent": "Apple",
+        "Beskrivelse": "Apple MacBook Pro",
+        "Spesifikasjoner": "M1 Pro, 16GB RAM, 512GB SSD, macOS",
+        "Innkjøpsdato": "12.10.2023",
+        "Innkjøpspris": 1999.99,
+        "Forventet levetid (i år)": 6,
+        "Kategori": "B\u00e6rbare Datamaskiner"
+    },
+    {
+        "Produsent": "Samsung",
+        "Beskrivelse": "Samsung Odyssey G9",
+        "Spesifikasjoner": "49\" QHD, 240Hz, Curved",
+        "Innkjøpsdato": "20.11.2023",
+        "Innkjøpspris": 1299.99,
+        "Forventet levetid (i år)": 7,
+        "Kategori": "Skjermer"
+    }
+]

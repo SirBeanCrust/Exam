@@ -1,36 +1,14 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import data from "../inventory_data_with_categories.json";
 import "./Css/App.css";
 
-const objectArray = [
-  {
-    produsent: "Hewlett Packard",
-    beskrivelse: "HP Envy Desktop TE01-4254",
-    spesifikasjoner:
-      "Intel Core i7-13700, 16GB RAM, 1TB SSD, Intel UHD Graphics 770, Windows 11 Home",
-    innkjøpsdato: "15.08.2023",
-    innkjøpspris: 999.99,
-    "forventet levetid (i år)": 5,
-    kategori: "Datamaskiner",
-  },
-  {
-    produsent: "Dell",
-    beskrivelse: "Dell XPS 15",
-    spesifikasjoner:
-      "Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 Ti, Windows 11 Pro",
-    innkjøpsdato: "12.06.2023",
-    innkjøpspris: 1500.0,
-    "forventet levetid (i år)": 4,
-    kategori: "Bærbare Datamaskiner",
-  },
-];
-
-function Items({ setSelectedItem }) {
-  return (
-    <div>
-      {objectArray.map((item, i) => (
-        <div key={i}>
-          <button onClick={() => setSelectedItem(item)}>
-            <p>{item.beskrivelse}</p>
+function Items({ selectedItem, setSelectedItem, items }) {
+   return (
+    <div className="itemlist">
+      {items.map((item, index) => (
+        <div key={index}>
+          <button onClick={() => setSelectedItem(item) + console.log(selectedItem)}>
+            <p>{item.Beskrivelse}</p>
           </button>
         </div>
       ))}
@@ -38,48 +16,76 @@ function Items({ setSelectedItem }) {
   );
 }
 
+
 function Display({ selectedItem, setMyLoans, myLoans }) {
   function leggTil() {
+    console.log({myLoans})
     if (selectedItem) {
-      setMyLoans((prevMyLoans) => [...prevMyLoans, selectedItem]);
+      let clone = myLoans.slice()
+      clone.push(selectedItem)
+      setMyLoans(clone);
       console.log({myLoans})
     }
   }
 
   return (
     <>
-      <p>Produsent: {selectedItem?.produsent}</p>
-      <p>Beskrivelse: {selectedItem?.beskrivelse}</p>
-      <p>Spesifikasjoner: {selectedItem?.spesifikasjoner}</p>
-      <p>Innkjøpsdato: {selectedItem?.innkjøpsdato}</p>
-      <p>Innkjøpspris: {selectedItem?.innkjøpspris}</p>
-      <p>
-        Forventet levetid: (i år):{" "}
-        {selectedItem?.["forventet levetid (i år)"]}
-      </p>
-      <p>Kategori:{selectedItem?.kategori}</p>
-
-      <button onClick={leggTil}>Lån</button>
+       <div>
+        <h2>Selected Product</h2>
+        {selectedItem ? (
+          <>
+            <p>Produsent: {selectedItem.Produsent}</p>
+            <p>Beskrivelse: {selectedItem.Beskrivelse}</p>
+            <p>Spesifikasjoner: {selectedItem.Spesifikasjoner}</p>
+            <p>Innkjøpsdato: {selectedItem.Innkjøpsdato}</p>
+            <p>Innkjøpspris: {selectedItem.Innkjøpspris}</p>
+            <p>
+              Forventet levetid (i år): {selectedItem["forventet levetid (i år)"]}
+            </p>
+            <p>Kategori: {selectedItem.Kategori}</p>
+            <button onClick={leggTil}>Legg til i lån</button>
+          </>
+        ) : (
+          <p>Ingen produkt valgt.</p>
+        )}
+      </div>
     </>
   );
 }
 
-function MyLoans(){
-  <>
-
-  </>
+function MyLoans({myLoans}){
+  return(
+    <>
+    <div>
+            <h2>My Loans</h2>
+            <ul>
+              {myLoans.map((loan, index) => (
+                <li key={index}>{loan.Beskrivelse}</li>
+              ))}
+            </ul>
+          </div>
+      </>
+  )
+ 
 }
 
+
 export default function App() {
-  const [selectedItem, setSelectedItem] = useState({});
+  const [items, setItems] = useState([]);
+  const [selectedItem, setSelectedItem] = useState(null);
   const [myLoans, setMyLoans] = useState([]);
 
+  useEffect(() => {
+    setItems(data);
+  }, []);
+
+  
   return (
     <>
       <h1>Vite + React</h1>
-      <Items setSelectedItem={setSelectedItem} />
+      <Items items={items} setSelectedItem={setSelectedItem} selectedItem={selectedItem} />
       <Display selectedItem={selectedItem} setMyLoans={setMyLoans} myLoans={myLoans} />
-      <MyLoans/>
+      <MyLoans myLoans={myLoans}/>
     </>
   );
 }
