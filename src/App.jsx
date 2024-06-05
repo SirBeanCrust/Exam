@@ -1,13 +1,14 @@
 import { useState, useEffect } from "react";
+import axios from "axios";
 import data from "../inventory_data_with_categories.json";
 import "./Css/App.css";
 
-function Items({ selectedItem, setSelectedItem, items }) {
+function Items({ setSelectedItem, items }) {
    return (
     <div className="itemlist">
       {items.map((item, index) => (
         <div key={index}>
-          <button onClick={() => setSelectedItem(item) + console.log(selectedItem)}>
+          <button onClick={() => setSelectedItem(item, index)}>
             <p>{item.Beskrivelse}</p>
           </button>
         </div>
@@ -19,7 +20,6 @@ function Items({ selectedItem, setSelectedItem, items }) {
 
 function Display({ selectedItem, setMyLoans, myLoans }) {
   function leggTil() {
-    console.log({myLoans})
     if (selectedItem) {
       let clone = myLoans.slice()
       clone.push(selectedItem)
@@ -69,6 +69,76 @@ function MyLoans({myLoans}){
  
 }
 
+function EditItems({items, bla, onSave, onRemove, selectedItem, setSelectedItem}){
+  const [itemCopy, setItemCopy] = useState(null);
+  const [itemIndex, setItemIndex] = useState(null);
+
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+    setItemCopy(prevState => ({
+      ...prevState,
+      [name]: value
+    }));
+  };
+
+
+  const handleSubmit = (e) => {
+    // endre objectet til ny version
+// set items[itemIndex](itemCopy)
+    e.preventDefault();
+    onSave(itemCopy, itemIndex)
+    setItemCopy(null)
+  };
+
+  function Remove(){
+    e.preventDefault();
+    setItemCopy(null)
+    onRemove(itemIndex)
+
+  }
+
+  function setSelectedItem(item, index){
+    bla(item)
+    setItemCopy({...selectedItem})
+    console.log({itemCopy})
+    console.log({selectedItem})
+    setItemIndex(index)
+  }
+
+  return(
+    <>
+    <div>
+      <h2>
+        Edit
+      </h2>
+    <Items items={items} setSelectedItem={setSelectedItem} />
+       <div>
+        <h2>Selected Product</h2>
+        {itemCopy ? (
+             <form onSubmit={handleSubmit}>
+              <label>
+                Produsent:
+                <input
+                  type="text"
+                  name="Produsent"
+                  value={itemCopy.Produsent}
+                  onChange={handleChange}
+                />
+              </label>
+              <button onClick={Remove}>Fjern enhet</button>
+              <button type="submit">Lagre enhet</button>
+            </form>
+          ) : (
+          <p>Ingen produkt valgt.</p>
+        )}
+      </div>
+      <div>
+
+      </div>
+      </div>
+    </>
+    )}
+
 
 export default function App() {
   const [items, setItems] = useState([]);
@@ -76,16 +146,36 @@ export default function App() {
   const [myLoans, setMyLoans] = useState([]);
 
   useEffect(() => {
-    setItems(data);
+    axios.get('http://localhost:5000/items')
+      .then(response => setItems(response.data))
+      .catch(error => console.error('There was an error fetching the data!', error));
   }, []);
 
+  function onSave(itemCopy, itemIndex){
+    console.log(itemIndex)
+    setItems(prevItems => {
+      const updatedItems = [...prevItems];
+      updatedItems[itemIndex] = itemCopy;
+      return updatedItems;
+    })
+  }
+
+  function onRemove(itemIndex){
+    console.log(itemIndex)
+    setItems(prevItems => {
+      const updatedItems = [...prevItems];
+      updatedItems.splice(itemIndex, 1);
+      return updatedItems;
+    })
+  }
   
   return (
     <>
       <h1>Vite + React</h1>
-      <Items items={items} setSelectedItem={setSelectedItem} selectedItem={selectedItem} />
+      <Items items={items} setSelectedItem={setSelectedItem} />
       <Display selectedItem={selectedItem} setMyLoans={setMyLoans} myLoans={myLoans} />
       <MyLoans myLoans={myLoans}/>
+      <EditItems items={items} bla={setSelectedItem} selectedItem={selectedItem} onSave={onSave} onRemove={onRemove}/>
     </>
   );
 }
