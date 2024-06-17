@@ -116,12 +116,65 @@ function EditItems({items, bla, onSave, onRemove, selectedItem, setSelectedItem}
         <h2>Selected Product</h2>
         {itemCopy ? (
              <form onSubmit={handleSubmit}>
-              <label>
+               <label>
                 Produsent:
                 <input
                   type="text"
                   name="Produsent"
                   value={itemCopy.Produsent}
+                  onChange={handleChange}
+                />
+              </label>
+              <label>
+                Beskrivelse:
+                <input
+                  type="text"
+                  name="Beskrivelse"
+                  value={itemCopy.Beskrivelse}
+                  onChange={handleChange}
+                />
+              </label>
+              <label>
+                Spesifikasjoner:
+                <textarea
+                  name="Spesifikasjoner"
+                  value={itemCopy.Spesifikasjoner}
+                  onChange={handleChange}
+                />
+              </label>
+              <label>
+                Innkjøpsdato:
+                <input
+                  type="text"
+                  name="Innkjøpsdato"
+                  value={itemCopy.Innkjøpsdato}
+                  onChange={handleChange}
+                />
+              </label>
+              <label>
+                Innkjøpspris:
+                <input
+                  type="text"
+                  name="Innkjøpspris"
+                  value={itemCopy.Innkjøpspris}
+                  onChange={handleChange}
+                />
+              </label>
+              <label>
+                Forventet levetid (i år):
+                <input
+                  type="text"
+                  name="ForventetLevetid"
+                  value={itemCopy.ForventetLevetid}
+                  onChange={handleChange}
+                />
+              </label>
+              <label>
+                Kategori:
+                <input
+                  type="text"
+                  name="Kategori"
+                  value={itemCopy.Kategori}
                   onChange={handleChange}
                 />
               </label>
